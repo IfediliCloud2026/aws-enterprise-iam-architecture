@@ -1,0 +1,16 @@
+# Windows system file overrides
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Local text editor caches
+.vscode/
+.idea/
+*.suo
+
+# AWS / DevOps state files
+.aws/
+credentials
+config
+*.tfstate
+*.tfstate.backup
